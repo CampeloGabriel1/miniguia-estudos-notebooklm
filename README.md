@@ -32,7 +32,7 @@ Essa estratégia resolveu o obstáculo técnico de programação e tornou as dif
 Glossário de conceitos:
 **Cabo Game Link (Game Link Cable):** Acessório do console portátil Game Boy que permitia a conexão entre dois aparelhos. Ao observar este cabo, Satoshi Tajiri imaginou insetos rastejando pelo fio, o que serviu como a principal inspiração tecnológica para criar a mecânica de troca de monstros virtuais.
 
-**Capsule Monsters (Capumon):** O nome original e o conceito inicial do projeto que viria a se tornar Pokémon. A ideia foi diretamente inspirada nas máquinas japonesas de *gashapon* (que dispensam pequenos brinquedos em cápsulas) e no programa de *tokusatsu* chamado *Ultraseven*, onde o protagonista utilizava monstros contidos em cápsulas. O nome precisou ser alterado para *Pocket Monsters* devido a problemas de direitos autorais.
+**Capsule Monsters (Capumon):** O nome original e o conceito inicial do projeto que viria a se tornar Pokémon. A ideia foi diretamente inspirada nas máquinas japonesas de _gashapon_ (que dispensam pequenos brinquedos em cápsulas) e no programa de _tokusatsu_ chamado _Ultraseven_, onde o protagonista utilizava monstros contidos em cápsulas. O nome precisou ser alterado para _Pocket Monsters_ devido a problemas de direitos autorais.
 
 **Colecionismo de Insetos (Entomologia):** O passatempo de infância de Satoshi Tajiri nos bosques e lagoas de Machida, no Japão, que lhe rendeu o apelido de "Dr. Bug". Com a urbanização destruindo as áreas verdes locais, Tajiri quis usar os videogames para recriar e preservar a emoção de procurar, capturar e catalogar criaturas para as novas gerações de crianças.
 
@@ -40,9 +40,9 @@ Glossário de conceitos:
 
 **Game Freak:** Originalmente iniciada em 1981 como uma revista amadora (fanzine) focada em dicas de jogos de fliperama, escrita por Satoshi Tajiri e ilustrada por Ken Sugimori. Motivados pela insatisfação com os jogos da época, os fundadores decidiram criar seus próprios títulos e, em 1989, transformaram a marca na desenvolvedora de jogos eletrônicos responsável por Pokémon.
 
-**Mew:** O 151º Pokémon, inserido em segredo nos espaços finais do cartucho pelo programador Shigeki Morimoto após a fase de depuração do jogo. Sua existência foi divulgada como uma lenda urbana e gerou uma promoção oficial na revista *CoroCoro*, o que reacendeu o interesse do público e fez as vendas dos jogos dispararem.
+**Mew:** O 151º Pokémon, inserido em segredo nos espaços finais do cartucho pelo programador Shigeki Morimoto após a fase de depuração do jogo. Sua existência foi divulgada como uma lenda urbana e gerou uma promoção oficial na revista _CoroCoro_, o que reacendeu o interesse do público e fez as vendas dos jogos dispararem.
 
-**Pokébola (Poké Ball):** Dispositivo esférico criado no universo do jogo que permite aos Treinadores capturar os Pokémon selvagens enfraquecidos, convertendo-os em uma forma de energia para armazenamento. A ideia foi baseada nas cápsulas de brinquedo e na mídia *Kaiju*.
+**Pokébola (Poké Ball):** Dispositivo esférico criado no universo do jogo que permite aos Treinadores capturar os Pokémon selvagens enfraquecidos, convertendo-os em uma forma de energia para armazenamento. A ideia foi baseada nas cápsulas de brinquedo e na mídia _Kaiju_.
 
 **Pokédex:** Uma enciclopédia eletrônica portátil in-game, utilizada pelos Treinadores para registrar dados e características de cada espécie de Pokémon encontrada ou capturada. A ideia do dispositivo foi sugerida pelo produtor Tsunekazu Ishihara.
 
@@ -52,8 +52,7 @@ Glossário de conceitos:
 
 **The Pokémon Company:** Uma joint venture estabelecida em abril de 1998 pelas empresas Nintendo, Game Freak e Creatures Inc. Criada originalmente para operar os "Pokémon Centers" (lojas físicas), a empresa expandiu-se em 2000 para gerenciar centralmente os direitos da marca, o marketing, o anime e as parcerias globais de toda a franquia.
 
-**Troca (Trading):** A mecânica principal e filosófica que originou Pokémon. Satoshi Tajiri, frustrado por não conseguir um item raro que seu amigo tinha sobrando no jogo *Dragon Quest II*, idealizou um sistema que fosse puramente sobre a cooperação e o intercâmbio de recursos, uma diferença marcante numa época em que o Cabo Game Link era usado apenas para competições.
-
+**Troca (Trading):** A mecânica principal e filosófica que originou Pokémon. Satoshi Tajiri, frustrado por não conseguir um item raro que seu amigo tinha sobrando no jogo _Dragon Quest II_, idealizou um sistema que fosse puramente sobre a cooperação e o intercâmbio de recursos, uma diferença marcante numa época em que o Cabo Game Link era usado apenas para competições.
 
 Resumo (Mindmap)
-![Mapa Mental] (C:\Users\GabrielCampelo\Documents\Estudos\Bootcamp - CI&T\miniguia-estudos-notebooklm\NotebookLM Mind Map (1).png)
+![Mapa Mental](<NotebookLM%20Mind%20Map%20(1).png>)
